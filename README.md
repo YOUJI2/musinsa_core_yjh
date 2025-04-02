@@ -77,6 +77,11 @@
   ```
   ./gradlew test
   ```
+- **API 테스트**
+  ```
+  애플리케이션 실행 후 아래 swagger페이지에서 API 테스트 가능합니다.
+  http://localhost:8080/swagger-ui/index.html
+  ```
 
 ## 🧐 고민했던 부분
 
